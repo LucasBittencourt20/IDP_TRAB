@@ -4,6 +4,8 @@
 
 ### Business Model Canvas
 
+### Vídeo
+
 ### Banco de Dados:
 https://www.gov.br/saude/pt-br/assuntos/noticias/2022/agosto/ministerio-da-saude-lanca-publicacao-sobre-indicadores-de-pratica-de-atividades-fisicas-entre-os-brasileiros
 https://www.cnnbrasil.com.br/saude/brasil-lidera-ranking-de-paises-que-menos-fazem-exercicios-fisicos/
