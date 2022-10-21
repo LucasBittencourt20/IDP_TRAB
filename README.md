@@ -6,7 +6,7 @@
 
 ### Business Model Canvas
 - Link: https://next.canvanizer.com/canvas/i5gwFKFgWyJNu
-![figura]
+![figura](https://github.com/LucasBittencourt20/IDP_TRAB/blob/b63e9798e55f36d59180bd6dae35136562bb9959/Captura%20de%20Tela%202022-10-21%20a%CC%80s%2017.58.42.png)
 ![figura]
 ![figura]
 
