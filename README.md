@@ -2,7 +2,7 @@
 
 ### Cama de gato
 - Link: https://drive.google.com/file/d/1YdxqYGOQi1a4i2HSzwYwVcOtCIJ5rXTj/view?usp=sharing
-![figura](https://github.com/LucasBittencourt20/IDP_TRAB/blob/main/Captura%20de%20Tela%202022-10-21%20às%2017.17.03.png)
+![figura](https://github.com/LucasBittencourt20/IDP_TRAB/blob/333736a0582218eaf02f51f30201c4d39cf6a779/Captura%20de%20Tela%202022-10-21%20a%CC%80s%2017.17.03.png)
 
 ### Business Model Canvas
 - Link: https://next.canvanizer.com/canvas/i5gwFKFgWyJNu
