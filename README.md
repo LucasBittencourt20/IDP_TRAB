@@ -6,6 +6,9 @@
 
 ### Business Model Canvas
 - Link: https://next.canvanizer.com/canvas/i5gwFKFgWyJNu
+![figura]
+![figura]
+![figura]
 
 ### Vídeo
 - 
