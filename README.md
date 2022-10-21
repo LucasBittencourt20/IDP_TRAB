@@ -1,10 +1,13 @@
 # IDP_TRAB
 
 ### Cama de gato
+-
 
 ### Business Model Canvas
+- https://next.canvanizer.com/canvas/i5gwFKFgWyJNu
 
 ### Vídeo
+- 
 
 ### Banco de Dados:
 - Ministério da Saúde: https://www.gov.br/saude/pt-br/assuntos/noticias/2022/agosto/ministerio-da-saude-lanca-publicacao-sobre-indicadores-de-pratica-de-atividades-fisicas-entre-os-brasileiros
