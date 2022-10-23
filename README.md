@@ -20,4 +20,6 @@
 - Instituto de Pesquisa Econômica Aplicada: https://www.ipea.gov.br/ods/ods3.html ; https://www.ufmg.br/espacodoconhecimento/saude-e-bem-estar/
 
 ### Contribuição
-- 
+
+## Mayara Gasparoto Tonin
+Sugiro explorar como diminuir os gastos do SUS com inatividade e como esses recursos poderiam ser alocados em programas preventivos.
